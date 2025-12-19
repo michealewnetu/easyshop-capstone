@@ -1,0 +1,4 @@
+org/yearup/configuration/TestDatabaseConfig.class
+org/yearup/data/mysql/MySqlProductDaoTest$1.class
+org/yearup/data/mysql/MySqlProductDaoTest.class
+org/yearup/data/mysql/BaseDaoTestClass.class
